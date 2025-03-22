@@ -1,4 +1,4 @@
-# Weather Dashboard
+# Cloud Pulse
 
 ## Overview
 The Weather Dashboard is a web application that provides users with real-time weather updates and forecasts for various locations. It leverages the OpenWeatherMap API to fetch current weather data and uses Leaflet.js for an interactive map display.
